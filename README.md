@@ -2,6 +2,26 @@
 
 Uma plataforma integrada de Inteligência Preditiva e Análise Macroeconômica do Setor Aeroespacial, construída com Python e Streamlit. Este projeto audita a viabilidade, a logística e os riscos de lançamentos de foguetes, além de monitorar telemetria ao vivo.
 
+## 📸 Telas do Projeto
+
+### Telemetria Live e Matriz Cronológica
+![Matriz Cronológica](img/print_telemetria.png)
+
+### Radar Global (Infraestrutura LEO)
+![Radar Global](img/print_radar.png)
+
+### Performance Financeira e Market Share
+![Performance Financeira](img/print_financeiro.png)
+
+### Logística e Custo de Lançamento
+![Logística](img/print_logistica.png)
+
+### Motor de Decisão IA e Matriz de Risco
+![Matriz de Risco](img/print_risco.png)
+
+### Projeção Preditiva (Macro Forecast 2030)
+![Projeção Preditiva](img/print_projecao.png)
+
 ##  Funcionalidades
 
 O sistema é dividido em 6 módulos principais de análise:
