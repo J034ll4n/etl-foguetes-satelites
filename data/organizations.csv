@@ -1,0 +1,82 @@
+organization,country,type,founded,sector,annual_budget_bn_usd,launches_total,success_rate,crewed_missions,satellites_operated,active_2024,notable_program
+NASA,USA,government,1958,civil,18.97,132,0.843,11,2,1,Earth Observation
+Roscosmos,Russia,government,1992,civil,1.5,1,0.778,14,129,1,Military Surveillance
+ESA,Europe,government,1975,civil,0.29,157,0.993,2,37,1,Weather Monitoring
+JAXA,Japan,government,2003,civil,19.67,2,1.0,35,12,1,Deep Space Exploration
+ISRO,India,government,1969,civil,2.54,5,0.925,6,0,1,Navigation
+CNSA,China,government,1993,civil,5.67,106,0.85,22,92,1,Mars Exploration
+CASC,China,state-owned,1956,commercial,,4,0.979,12,1343,1,Lunar Exploration
+SpaceX,USA,private,2002,commercial,,16,0.877,38,24,1,Mars Exploration
+ULA,USA,jv,2006,commercial,,232,1.0,8,14,1,Earth Observation
+Arianespace,France,commercial,1980,commercial,,7,0.85,45,419,1,Earth Observation
+Rocket Lab,USA/NZ,private,2006,commercial,,7,0.884,19,6,1,Navigation
+Blue Origin,USA,private,2000,commercial,,15,0.941,15,6,1,Satellite Internet
+Virgin Orbit,USA,private,2017,commercial,,108,0.933,2,5,1,Lunar Exploration
+Northrop Grumman,USA,private,1939,commercial,,16,0.998,31,9,1,Military Surveillance
+Boeing,USA,private,1916,commercial,,6,0.99,13,97,1,Human Spaceflight
+Lockheed Martin,USA,private,1995,commercial,,4,0.918,41,5,1,Satellite Internet
+Russian MoD,Russia,military,1945,military,,340,1.0,30,14,1,Low Earth Orbit
+USAF / USSF,USA,military,1947,military,,32,0.934,1,4,1,Mars Exploration
+Khrunichev,Russia,state-owned,1993,commercial,,5,0.942,45,18,1,Space Tourism
+TsSKB-Progress,Russia,state-owned,1959,commercial,,76,1.0,30,39,1,Deep Space Exploration
+Yuzhnoye,Ukraine,state-owned,1954,commercial,,14,0.926,29,2,1,Military Surveillance
+OKB-1 / RSC Energia,Russia,state-owned,1946,commercial,,132,1.0,18,53,1,Weather Monitoring
+IAI,Israel,government,1953,military,0.44,237,0.919,9,6,1,Weather Monitoring
+KCST,North Korea,government,2013,civil,1.47,36,0.992,45,115,1,Weather Monitoring
+ISA,Iran,government,2004,civil,2.07,88,1.0,45,4,1,Human Spaceflight
+KARI,South Korea,government,1989,civil,4.54,1,0.976,9,73,1,Military Surveillance
+AEB,Brazil,government,1994,civil,2.59,90,0.924,45,56,1,Earth Observation
+CASIC,China,state-owned,1999,military,,104,0.889,32,1,1,Space Tourism
+LandSpace,China,private,2015,commercial,,3,0.928,45,41,1,Low Earth Orbit
+iSpace,China,private,2016,commercial,,7,0.934,22,43,1,Weather Monitoring
+Galactic Energy,China,private,2018,commercial,,21,0.943,34,27,1,Deep Space Exploration
+Skyroot Aerospace,India,private,2018,commercial,,9,0.879,38,7,1,Human Spaceflight
+Relativity Space,USA,private,2015,commercial,,65,1.0,27,3,1,Earth Observation
+Firefly Aerospace,USA,private,2014,commercial,,2,1.0,29,5,1,Human Spaceflight
+ABL Space Systems,USA,private,2017,commercial,,24,1.0,21,94,1,Lunar Exploration
+Astra Space,USA,private,2016,commercial,,15,0.896,28,9,1,Lunar Exploration
+Orbex,UK,private,2015,commercial,,8,0.962,7,28,1,Human Spaceflight
+HyImpulse,Germany,private,2018,commercial,,83,0.733,24,2,1,Space Tourism
+PLD Space,Spain,private,2011,commercial,,3,0.897,5,49,1,Earth Observation
+Isar Aerospace,Germany,private,2018,commercial,,38,0.854,43,266,1,Satellite Internet
+Exolaunch,Germany,private,2006,commercial,,226,0.895,13,4,1,Satellite Internet
+D-Orbit,Italy,private,2011,commercial,,93,1.0,15,166,1,Human Spaceflight
+Momentus,USA,private,2017,commercial,,60,0.907,41,1739,1,Mars Exploration
+Planet Labs,USA,private,2010,commercial,,63,0.997,45,22,1,Space Tourism
+Spire Global,USA,private,2012,commercial,,3,0.981,42,3,1,Weather Monitoring
+OneWeb,UK/USA,private,2012,commercial,,5,1.0,45,38,1,Geostationary Comms
+Starlink / SpaceX,USA,private,2015,commercial,,3,0.905,13,39,1,Lunar Exploration
+Amazon (Project Kuiper),USA,private,2019,commercial,,5,0.984,20,6,1,Military Surveillance
+Telesat,Canada,private,1969,commercial,,117,1.0,13,9,1,Navigation
+SES,Luxembourg,private,1985,commercial,,23,1.0,3,20,1,Human Spaceflight
+Intelsat,Luxembourg,private,1964,commercial,,4,0.866,37,100,1,Lunar Exploration
+Eutelsat,France,private,1977,commercial,,31,0.986,45,2,1,Lunar Exploration
+OHB,Germany,private,1981,commercial,,66,0.882,30,28,1,Earth Observation
+Thales Alenia Space,France/Italy,private,2007,commercial,,22,0.905,13,586,1,Navigation
+Airbus Defence & Space,Europe,private,2000,commercial,,84,0.954,32,26,1,Military Surveillance
+Ball Aerospace,USA,private,1956,commercial,,15,0.873,20,106,1,Low Earth Orbit
+General Dynamics,USA,private,1952,commercial,,2,0.872,37,1,1,Mars Exploration
+Maxar Technologies,USA,private,1969,commercial,,11,0.927,14,8,1,Deep Space Exploration
+Surrey Satellite Technology,UK,private,1985,commercial,,23,0.8,9,0,1,Weather Monitoring
+SSTL,UK,private,1985,commercial,,87,0.894,14,51,1,Human Spaceflight
+MHI (Mitsubishi),Japan,private,1884,commercial,,67,1.0,22,5,1,Lunar Exploration
+ArianeGroup,Europe,private,2015,commercial,,57,1.0,13,4,1,Human Spaceflight
+MT Aerospace,Germany,private,1999,commercial,,0,0.755,22,14,1,Navigation
+DLR,Germany,government,1969,civil,0.69,20,1.0,45,630,1,Lunar Exploration
+CNES,France,government,1961,civil,0.88,179,0.875,45,3,1,Deep Space Exploration
+ASI,Italy,government,1988,civil,1.84,86,0.881,34,5,1,Deep Space Exploration
+UK Space Agency,UK,government,2010,civil,2.46,9,1.0,29,33,1,Satellite Internet
+CSA,Canada,government,1989,civil,1.95,8,0.839,39,1,1,Mars Exploration
+KASA,South Korea,government,2022,civil,1.76,75,0.786,33,4,1,Navigation
+Rocket Factory Augsburg,Germany,private,2018,commercial,,20,0.907,34,63,1,Deep Space Exploration
+Vast Space,USA,private,2021,commercial,,4,0.876,15,39,1,Human Spaceflight
+Sierra Space,USA,private,1963,commercial,,39,0.983,17,47,1,Military Surveillance
+Axiom Space,USA,private,2016,commercial,,20,0.876,37,105,1,Low Earth Orbit
+Virgin Galactic,USA,private,2004,commercial,,5,1.0,17,39,1,Deep Space Exploration
+Dawn Aerospace,NZ,private,2017,commercial,,3,1.0,0,26,1,Human Spaceflight
+Launcher (Vast),USA,private,2017,commercial,,23,0.964,45,19,1,Low Earth Orbit
+Exos Aerospace,USA,private,2015,commercial,,3,1.0,35,3,1,Space Tourism
+Rocketstar,USA,private,2018,commercial,,18,0.884,29,56,1,Space Tourism
+Stoke Space,USA,private,2019,commercial,,9,0.93,45,57,1,Navigation
+Phantom Space,USA,private,2019,commercial,,9,0.981,24,73,1,Low Earth Orbit
+X-Bow Launch,USA,private,2016,commercial,,13,0.941,39,77,1,Human Spaceflight
