@@ -2,7 +2,7 @@
 
 Uma plataforma integrada de Inteligência Preditiva e Análise Macroeconômica do Setor Aeroespacial, construída com Python e Streamlit. Este projeto audita a viabilidade, a logística e os riscos de lançamentos de foguetes, além de monitorar telemetria ao vivo.
 
-## 📸 Telas do Projeto
+##  Telas do Projeto
 
 ### Telemetria Live e Matriz Cronológica
 ![Matriz Cronológica](img/print_telemetria.png)
@@ -40,6 +40,8 @@ O sistema é dividido em 6 módulos principais de análise:
 * **Visualização de Dados:** Plotly Express & Plotly Graph Objects
 * **Machine Learning:** Scikit-Learn (RandomForestClassifier, OrdinalEncoder) & Imbalanced-Learn (SMOTE)
 * **Integrações Externas (APIs):** Requests (The SpaceDevs API v2.3.0 & Open-Meteo)
+
+# Projeto no Streamlit: https://etl-foguetes-satelites-udmuqgycbarim92gk2ymc2.streamlit.app/
 
 ##  Estrutura de Arquivos Necessária
 
